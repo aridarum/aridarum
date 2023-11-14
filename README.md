@@ -1,6 +1,6 @@
 ### Hi there 🌴
 
-**aridarum/aridarum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on GitHub profile.
+**aridarum/aridarum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 - 🔭 I’m currently working on `Drupal`.
 - 🌱 I’m currently learning `Yaml`, `SwiftUI`.
